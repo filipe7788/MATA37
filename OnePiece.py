@@ -1,0 +1,7 @@
+a, b, c, d, e =  input().split()
+na = int(a) 
+nb = int(b)
+nc = int(c)
+nd = int(d)
+ne = int(e)
+print(na+nb+nc+nd+ne)
